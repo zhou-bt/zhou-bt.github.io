@@ -8,7 +8,7 @@
       <p><b>地址：西安市灞桥区</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zbt.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
