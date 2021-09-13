@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-<table border="1">
+<table border="0">
   <tr>
     <td width="75%">
       <h1>其他内容</h1>
